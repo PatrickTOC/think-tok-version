@@ -1,3 +1,5 @@
+<!-- content v1.19 -->
+
 # Helping a teen find their own way out of a stuck dilemma
 
 Underneath, this uses a real Theory of Constraints tool (Goldratt's
