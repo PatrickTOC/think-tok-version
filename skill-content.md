@@ -1,4 +1,4 @@
-<!-- content v1.19 -->
+<!-- content v1.20 -->
 
 # Helping a teen find their own way out of a stuck dilemma
 
